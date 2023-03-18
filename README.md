@@ -1,5 +1,5 @@
-<h1>Assets repository</h1>
-<h2>Origin: https://yujinpan.github.io/assets/</h2>
+<h1>Ftp repository</h1>
+<h2>Origin: https://yujinpan.github.io/ftp/</h2>
 <h3>Test list:</h3>
 <ul>
   <li>
