@@ -1,3 +1,36 @@
+# 2024-04-09
+
+DOMAIN-SUFFIX, creaders.net, PROXY
+DOMAIN-SUFFIX, unpkg.com, PROXY
+DOMAIN-SUFFIX, openai.com, PROXY
+DOMAIN-SUFFIX, sqex-bridge.jp, PROXY
+DOMAIN-SUFFIX, jmssub.net, DIRECT
+DOMAIN-SUFFIX, element-plus.org, PROXY
+DOMAIN-SUFFIX, byteoversea.com, PROXY
+DOMAIN-SUFFIX, isnssdk.com, PROXY
+DOMAIN-SUFFIX, ctyunapi.cn, PROXY
+DOMAIN-SUFFIX, bytegsdk.com, PROXY
+DOMAIN-SUFFIX, unity3d.com, PROXY
+DOMAIN-SUFFIX, battle.net, PROXY
+DOMAIN-SUFFIX, nflxso.net, PROXY
+DOMAIN-SUFFIX, nflxvideo.net, PROXY
+DOMAIN-SUFFIX, codepen.io, PROXY
+DOMAIN-SUFFIX, mandrillapp.com, PROXY
+DOMAIN-SUFFIX, siege-amazon.com, PROXY
+DOMAIN-SUFFIX, jetbrains.com, PROXY
+DOMAIN-SUFFIX, npmjs.com, PROXY
+DOMAIN-SUFFIX, jsdelivr.net, PROXY
+DOMAIN-SUFFIX, bootstrapcdn.com, PROXY
+DOMAIN-SUFFIX, maptiler.com, PROXY
+DOMAIN-SUFFIX, ytimg.com, PROXY
+DOMAIN-SUFFIX, youtube.com, PROXY
+DOMAIN-SUFFIX, steampowered.com, PROXY
+DOMAIN-SUFFIX, justmysocks.net, PROXY
+DOMAIN-SUFFIX, justmysocks1.net, PROXY
+DOMAIN-SUFFIX, justmysocks2.net, PROXY
+DOMAIN-SUFFIX, justmysocks3.net, PROXY
+DOMAIN-SUFFIX, axshare.com, DIRECT
+
 # (D.C.S.G?)
 DOMAIN-SUFFIX,9cache.com,PROXY
 DOMAIN-SUFFIX,9gag.com,PROXY
